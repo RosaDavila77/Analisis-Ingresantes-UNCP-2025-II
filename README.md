@@ -104,7 +104,7 @@ El dashboard incluye:
 - 1) Base de Datos
      <img width="1597" height="858" alt="image" src="https://github.com/user-attachments/assets/923b7ddc-b168-4081-a5a7-a650fc104e45" />
 - 2) Base de Datos Limpia
-     <img width="1332" height="888" alt="image" src="https://github.com/user-attachments/assets/df52b822-054e-420f-8018-afd8e89336a3" />
+     <img width="1332" height="888" alt="image" src="[https://github.com/user-attachments/assets/df52b822-054e-420f-8018-afd8e89336a3](https://github.com/RosaDavila77/Analisis-Ingresantes-UNCP-2025-II/blob/main/images/Base%20de%20Datos%20Limpia.png)" />
 
 ### Dashboard
 
