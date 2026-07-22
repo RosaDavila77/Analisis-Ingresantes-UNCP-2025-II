@@ -111,7 +111,8 @@ El dashboard incluye:
 
 ```
 ```
-<img width="1282" height="617" alt="image" src="https://github.com/user-attachments/assets/6e71e376-79ec-41b2-9ff7-4a8e3192d891" />
+<img width="1567" height="742" alt="image" src="https://github.com/user-attachments/assets/109d844b-9c7d-4faa-b802-31e3d870aceb" />
+
 
 ---
 
